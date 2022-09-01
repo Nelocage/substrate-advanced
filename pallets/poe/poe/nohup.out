@@ -1,0 +1,18 @@
+[00005571b088d560] main libvlc: 正在以默认界面运行 vlc。使用“cvlc”可以无界面模式使用 vlc。
+WARNING: CPU random generator seem to be failing, disabling hardware random number generation
+WARNING: RDRND generated: 0xffffffff 0xffffffff 0xffffffff 0xffffffff
+[00005571b088f0c0] main playlist: playlist is empty
+[00007f2fe4007a00] gl gl: Initialized libplacebo v4.208.0 (API v208)
+[00007f2fe4007a00] glconv_vaapi_x11 gl error: vaCreateSurfaces: attribute not supported
+[00007f2fec068b60] main video output error: video output creation failed
+[00007f2ffcc0d0e0] main decoder error: failed to create video output
+[00007f2fe4007a00] gl gl: Initialized libplacebo v4.208.0 (API v208)
+[00007f2ffcc0d0e0] avcodec decoder: Using NVIDIA VDPAU Driver Shared Library  515.65.01  Wed Jul 20 13:42:26 UTC 2022 for hardware decoding
+[00007f2ffcc69930] main decoder error: Timestamp conversion failed for 582869001: no reference clock
+[00007f2ffcc69930] main decoder error: Could not convert timestamp 0 for faad
+[00007f2ffcc0d0e0] main decoder error: Timestamp conversion failed for 582867001: no reference clock
+[00007f2ffcc0d0e0] main decoder error: Could not convert timestamp 0 for FFmpeg
+[00007f2ffcc0d0e0] main decoder error: Timestamp conversion failed for 858200001: no reference clock
+[00007f2ffcc0d0e0] main decoder error: Could not convert timestamp 0 for FFmpeg
+[00007f2ffcc0d0e0] main decoder error: Timestamp conversion failed (delay 1000000, buffering 100000, bound 9000000)
+[00007f2ffcc0d0e0] main decoder error: Could not convert timestamp 8347129871 for FFmpeg
