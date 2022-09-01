@@ -1,5 +1,5 @@
 use frame_support::{assert_noop, assert_ok};
-use frame_system::Origin;  //type Origin<T> = RawOrigin<<T as Config>::AccountId>; 类型别名
+// use frame_system::Origin;  //type Origin<T> = RawOrigin<<T as Config>::AccountId>; 类型别名
 use sp_runtime::traits::BadOrigin;
 use crate::{mock::*};
 // use sp_runtime::BoundedVec;
